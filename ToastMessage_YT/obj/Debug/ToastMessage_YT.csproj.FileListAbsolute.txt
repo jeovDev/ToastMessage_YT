@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\ToastMessage_YT\ToastMessage_YT\bin\Debug\ToastMessage_YT.exe.config
+C:\Users\Acer\source\repos\ToastMessage_YT\ToastMessage_YT\bin\Debug\ToastMessage_YT.exe
+C:\Users\Acer\source\repos\ToastMessage_YT\ToastMessage_YT\bin\Debug\ToastMessage_YT.pdb
+C:\Users\Acer\source\repos\ToastMessage_YT\ToastMessage_YT\obj\Debug\ToastMessage_YT.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\ToastMessage_YT\ToastMessage_YT\obj\Debug\ToastMessage_YT.Form1.resources
+C:\Users\Acer\source\repos\ToastMessage_YT\ToastMessage_YT\obj\Debug\ToastMessage_YT.Properties.Resources.resources
+C:\Users\Acer\source\repos\ToastMessage_YT\ToastMessage_YT\obj\Debug\ToastMessage_YT.ToastForm.resources
+C:\Users\Acer\source\repos\ToastMessage_YT\ToastMessage_YT\obj\Debug\ToastMessage_YT.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\ToastMessage_YT\ToastMessage_YT\obj\Debug\ToastMessage_YT.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ToastMessage_YT\ToastMessage_YT\obj\Debug\ToastMessage_YT.exe
+C:\Users\Acer\source\repos\ToastMessage_YT\ToastMessage_YT\obj\Debug\ToastMessage_YT.pdb
